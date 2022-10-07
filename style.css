@@ -104,7 +104,6 @@ body{
     margin-top: 40px;
 }
 
-/* Only in effect if max width is under 600px */
 @media(max-width:600px) {
     #main{
         width: 100%;
